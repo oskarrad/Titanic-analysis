@@ -1,0 +1,5 @@
+venv/
+.ruff_cashe
+.ipynb_checkpoints/
+titanic.pdf
+*.arff
